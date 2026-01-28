@@ -95,3 +95,6 @@ o Mostrar clasificación actualizada después de cada carrera.
 • Usar Random para generar km entre 20-50.
 • Considerar la posibilidad de empates (mismos km) y definir criterios de desempate.
 • Usar excepciones para validar datos de entrada (número válido de pilotos, carreras, etc.).
+
+
+https://github.com/user-attachments/assets/c7a36eb4-0f46-43b7-bd05-244979e99467
